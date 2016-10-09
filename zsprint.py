@@ -43,3 +43,8 @@ while(1):
 	else:
 		print "\nYou lose,try again"
 		quit()
+
+		
+'''
+1. Mention controls for the game.
+'''
